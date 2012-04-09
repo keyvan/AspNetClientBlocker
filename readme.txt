@@ -5,10 +5,10 @@ Podcast: http://keyvan.fm
 Twitter: http://twitter.com/keyvan
 Contact Info: http://keyvan.tel
 ******************************************************************
-This is an ASP.NET HTTP module written in C# to block the access
-of clients to a site based on their IP address. It supports a
-provider model to store the individual IP's or range of IP
-addresses.
+This is an ASP.NET HTTP module written in C# to block clients of
+a site based on their IP address. It supports a provider model
+to store the individual IP's or range of IP addresses, and has a
+default XML provider implementation.
 
 The implementation is described in details on my blog:
 
